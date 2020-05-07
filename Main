@@ -411,7 +411,7 @@ if key then
     end
 else
     print("No key provided, checking for additional")
-    for i,v in next(hashes) do
+    for i,v in pairs(hashes) do
         if v == hashid then
             print("User has been completely authenticated")
             bool = true
