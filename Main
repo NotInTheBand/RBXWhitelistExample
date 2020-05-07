@@ -423,3 +423,5 @@ end
 
 return bool
 end
+
+-- Thanks for checking it out, i made this as an example to show someone how to be secure with whitelists, whilst retaining security if someone could crack the script, that way keys arent leaked, and user id's arent leaked. im probably dumb as shit, have a nice day.
