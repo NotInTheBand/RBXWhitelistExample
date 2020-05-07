@@ -7,3 +7,6 @@ This was made to be an example to somebody showing how hashing is more secure th
 
 tl:dr 
 example of hashing securely. made in 5 minutes.
+
+@Fallen#0811 or @Anderson#5372
+i need friends
